@@ -543,3 +543,16 @@ iframe {
     width: 1360px;
   }
 }
+
+
+span.mail {
+	font-family: monospace;
+	font-size: medium;
+}
+
+span.dot {
+	font-family: monospace;
+	vertical-align: sub;
+	font-size: 5pt;
+	font-weight: bold;
+}
